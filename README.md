@@ -12,4 +12,8 @@ $ npm run start
 
 ## Deployed in Live
 
-Go to: 
+Go to: http://bit.ly/js-calculator-fcc
+
+<br/>
+
+![](./public/calculator.png)
